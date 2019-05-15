@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a1f0aa9-1e9d-44e8-ba5c-989c369bc6b9" name="Default Changelist" comment="" />
+    <list default="true" id="5a1f0aa9-1e9d-44e8-ba5c-989c369bc6b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NaiveBayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/NaiveBayes.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NaiveBayes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="-1504">
+              <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,6 +34,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -41,6 +51,7 @@
     <option name="width" value="1595" />
     <option name="height" value="1030" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -53,6 +64,11 @@
               <item name="ChineseName" type="b2602c69:ProjectViewProjectNode" />
               <item name="ChineseName" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ChineseName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChineseName" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -61,7 +77,23 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ChineseName" is-module-sdk="true">
+        <envs>
+          <env key="PATH" value="C:\Users\talki\Anaconda3;C:\Users\talki\Anaconda3\Library\mingw-w64\bin;C:\Users\talki\Anaconda3\Library\usr\bin;C:\Users\talki\Anaconda3\Library\bin;C:\Users\talki\Anaconda3\Scripts;C:\Users\talki\Anaconda3\bin;C:\Users\talki\Anaconda3\condabin;C:\Users\talki\Anaconda3\condabin\Library\mingw-w64\bin;C:\Users\talki\Anaconda3\condabin\Library\usr\bin;C:\Users\talki\Anaconda3\condabin\Library\bin;C:\Users\talki\Anaconda3\condabin\Scripts;C:\Users\talki\Anaconda3\condabin\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Common Files\Autodesk Shared\;D:\Git LFS;C:\Program Files\Git\cmd;C:\Users\talki\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\talki\AppData\Local\Programs\Python\Python37\;C:\Users\talki\AppData\Local\Microsoft\WindowsApps;C:\Users\talki\AppData\Local\GitHubDesktop\bin;C:\Users\talki\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\talki\AppData\Local\Microsoft\WindowsApps;" />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ChineseName" />
+        <option name="myEnvs">
+          <map>
+            <entry key="PATH" value="C:\Users\talki\Anaconda3;C:\Users\talki\Anaconda3\Library\mingw-w64\bin;C:\Users\talki\Anaconda3\Library\usr\bin;C:\Users\talki\Anaconda3\Library\bin;C:\Users\talki\Anaconda3\Scripts;C:\Users\talki\Anaconda3\bin;C:\Users\talki\Anaconda3\condabin;C:\Users\talki\Anaconda3\condabin\Library\mingw-w64\bin;C:\Users\talki\Anaconda3\condabin\Library\usr\bin;C:\Users\talki\Anaconda3\condabin\Library\bin;C:\Users\talki\Anaconda3\condabin\Scripts;C:\Users\talki\Anaconda3\condabin\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Bitvise SSH Client;C:\Program Files\Common Files\Autodesk Shared\;D:\Git LFS;C:\Program Files\Git\cmd;C:\Users\talki\AppData\Local\Programs\Python\Python37\Scripts\;C:\Users\talki\AppData\Local\Programs\Python\Python37\;C:\Users\talki\AppData\Local\Microsoft\WindowsApps;C:\Users\talki\AppData\Local\GitHubDesktop\bin;C:\Users\talki\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\talki\AppData\Local\Microsoft\WindowsApps;" />
+          </map>
+        </option>
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,6 +107,35 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="NaiveBayes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ChineseName" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NaiveBayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NaiveBayes" />
+        <item itemvalue="Python.NaiveBayes" />
+        <item itemvalue="Python.NaiveBayes" />
+        <item itemvalue="Python.NaiveBayes" />
+        <item itemvalue="Python.NaiveBayes" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -86,16 +147,24 @@
       <option name="presentableId" value="Default" />
       <updated>1557897987170</updated>
     </task>
+    <task id="LOCAL-00001" summary="naiveBayes">
+      <created>1557898302756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557898302756</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.6373938" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -110,11 +179,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="naiveBayes" />
+    <option name="LAST_COMMIT_MESSAGE" value="naiveBayes" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/NaiveBayes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="-1504">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
